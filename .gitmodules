@@ -1,3 +1,6 @@
 [submodule "server"]
 	path = server
 	url = git@github.com:nathanflorencio/brevly-be.git
+[submodule "web"]
+	path = web
+	url = git@github.com:nathanflorencio/brevly-fe.git
